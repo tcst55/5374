@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
 可燃ごみ,,,img/kanen.svg,#ea3b13
-不燃ごみ（金物・ガラス・粗大）,,,IMG/moyasanai02.svg,#733b96
+不燃ごみ（金物・ガラス・粗大）,,,img/moyasanai02.svg,#733b96
 資源,,,img/shigen02.svg,#77ae1f
-プラスチック,,,IMG/puras.svg,#2dc7aa
+プラスチック,,,img/puras.svg,#2dc7aa
 陶磁器類,,,img/moyasanai02.svg,#ba5ed5
